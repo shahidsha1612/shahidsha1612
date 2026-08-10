@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F26422,100:1a1a1a&height=120&section=header&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F26422,100:1a1a1a&height=120&section=header&reversal=true" width="100%"/>
+
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=#D1561C&center=true&vCenter=true&width=950&lines=GRC+%26+Information+Security+Engineer;ISO+27001%2C+9001+and+42001+Lead+Auditor;Full-stack+engineer+who+writes+the+evidence%2C+not+just+the+policy)](https://git.io/typing-svg)
@@ -133,5 +134,5 @@ Open to Information Security, Cybersecurity and GRC roles, plus consulting and a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D1561C)](https://linkedin.com/in/shaid-hussain-651b06134/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D1561C)](mailto:shahidsha.1612@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F26422&height=120&section=header&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F26422&height=120&section=foooter&reversal=false" width="100%"/>
 </div>
