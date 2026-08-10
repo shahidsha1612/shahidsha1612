@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=header&reversal=true" width="100%"/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=D1561C&center=true&vCenter=true&width=950&lines=GRC+%26+Information+Security+Engineer;ISO+27001%2C+9001+and+42001+Lead+Auditor;Full-stack+engineer+who+writes+the+evidence%2C+not+just+the+policy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=#D1561C&center=true&vCenter=true&width=950&lines=GRC+%26+Information+Security+Engineer;ISO+27001%2C+9001+and+42001+Lead+Auditor;Full-stack+engineer+who+writes+the+evidence%2C+not+just+the+policy)](https://git.io/typing-svg)
 
 <br/>
 
