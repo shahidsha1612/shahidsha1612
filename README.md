@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=220&section=header&text=Shaid%20Hussain&fontSize=60&fontColor=D1561C&animation=fadeIn&fontAlignY=38&desc=GRC%20%26%20Information%20Security%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=220&section=header&text=Shaid%20Hussain&fontSize=60&fontColor=D1561C&animation=fadeIn&fontAlignY=38&desc=GRC%20%26%20Information%20Security%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
 
 <br/>
@@ -118,23 +118,6 @@ Planned and led full ISO/IEC 27001:2022 internal audit programmes across multipl
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shahidsha1612&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=D1561C&icon_color=D1561C&text_color=ffffff" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidsha1612&theme=dark&hide_border=true&background=000000&ring=D1561C&fire=D1561C&sideNums=D1561C&currStreakLabel=D1561C" width="49%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidsha1612&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=D1561C" width="49%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shahidsha1612&theme=dark&no-frame=true&column=4&margin-w=8&margin-h=8" width="80%"/>
-</div>
-
----
-
 ### 🛠️ Also Building With (Dev Background)
 
 5 years of commercial MERN stack engineering underpins the technical side of the GRC work above.
@@ -152,6 +135,6 @@ Open to Information Security, Cybersecurity and GRC roles, plus consulting and a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D1561C)](https://linkedin.com/in/shaid-hussain-651b06134/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D1561C)](mailto:shahidsha.1612@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=footer" width="100%"/>
 
 </div>
