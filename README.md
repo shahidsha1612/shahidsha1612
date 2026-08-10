@@ -133,6 +133,6 @@ Open to Information Security, Cybersecurity and GRC roles, plus consulting and a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D1561C)](https://linkedin.com/in/shaid-hussain-651b06134/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D1561C)](mailto:shahidsha.1612@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#f26422,100:1a1a1a&height=120&section=footer" width="100%"/>
 
 </div>
