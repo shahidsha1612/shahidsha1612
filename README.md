@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=220&section=header&text=Shaid%20Hussain&fontSize=60&fontColor=D1561C&animation=fadeIn&fontAlignY=38&desc=GRC%20%26%20Information%20Security%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
-<img src="photo.png" width="150" style="border-radius:50%;border:3px solid #D1561C" alt="Shaid Hussain" />
 
 <br/>
 
