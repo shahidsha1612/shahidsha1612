@@ -1,78 +1,151 @@
 <div align="center">
 
-<img src="photo.png" width="160" style="border-radius:50%" alt="Shaid Hussain" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Shaid%20Hussain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Security%20%7C%20GRC%20%7C%20MERN%20Stack&descAlignY=58&descSize=18" width="100%"/>
 
-# Shaid Hussain
-### Information Security & GRC Consultant | ISO/IEC 27001:2022 Lead Auditor
+<img src="photo.png" width="150" style="border-radius:50%;border:3px solid #00c6ff" alt="Shaid Hussain" />
 
-📍 UK (Willing to Relocate) &nbsp;•&nbsp; 📧 shahidsha.1612@gmail.com &nbsp;•&nbsp; 📱 +44 7407 001987
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaid-hussain-651b06134/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahidsha.1612@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=ISO%2FIEC+27001%3A2022+Lead+Auditor;GRC+%26+Information+Security+Consultant;Ex-MERN+Stack+Engineer+%E2%86%92+Now+Securing+What+I+Used+to+Build;7+Concurrent+ISMS+Client+Engagements+%F0%9F%94%90)](https://git.io/typing-svg)
 
+<br/>
+
+📍 UK (Open to Relocate) &nbsp;|&nbsp; 📧 shahidsha.1612@gmail.com &nbsp;|&nbsp; 📱 +44 7407 001987
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00C6FF)](https://linkedin.com/in/shaid-hussain-651b06134/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00C6FF)](mailto:shahidsha.1612@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=shahidsha1612&style=for-the-badge&color=000000&label=PROFILE+VIEWS)](https://github.com/shahidsha1612)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+---
+
+### `> whoami`
+
+```yaml
+role:        Information Security & GRC Consultant
+specialty:   ISO/IEC 27001:2022 ISMS | Risk & Internal Audit | ISO/IEC 42001 AI Governance
+certified:   PECB ISO/IEC 27001 Lead Auditor
+background:  ~5 years commercial software engineering (MERN stack)
+superpower:  Translating governance requirements into controls engineers will actually adopt
+currently:   Running ISMS programmes across 7 concurrent clients — defence, SaaS, research, nonprofit
+```
+
+I bridge the gap between the boardroom and the codebase — testing whether controls are technically viable *before* they hit a Statement of Applicability, then translating the risk into plain English for directors and holding that ground under challenge.
+
+---
+
+### 🏆 Highlights
+
+| | |
+|---|---|
+| 🔐 | ISO/IEC 27001:2022 ISMS delivery across **7 concurrent client engagements** |
+| 📊 | Mapped **85 SoA controls → 76 live risk entries** with a programmatic validation gate for certification-ready traceability |
+| 🛡️ | **NIST SP 800-171** gap analysis (110 controls) for a defence supply chain manufacturer → CMMC readiness roadmap |
+| 🧭 | Led a full ISO/IEC 27001:2022 internal audit programme across **8 departments** |
+| ⚙️ | Shipped an SSM app now used by a **top-10 UK financial sector company** |
+
+---
+
+### 🛠️ Tech Stack
+
+**MERN & Web Development**
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,nextjs,mongodb,html,css,git,github,vscode&theme=dark" />
+
+**GRC, Risk & Security**
+
+![ISO27001](https://img.shields.io/badge/ISO%2FIEC_27001-000000?style=for-the-badge&labelColor=0d1117&color=00C6FF)
+![ISO42001](https://img.shields.io/badge/ISO%2FIEC_42001_AI-000000?style=for-the-badge&labelColor=0d1117&color=00C6FF)
+![NIST80171](https://img.shields.io/badge/NIST_SP_800--171-000000?style=for-the-badge&labelColor=0d1117&color=00C6FF)
+![GDPR](https://img.shields.io/badge/UK_GDPR_%2F_DPA_2018-000000?style=for-the-badge&labelColor=0d1117&color=00C6FF)
+![CyberEssentials](https://img.shields.io/badge/Cyber_Essentials_%2B-000000?style=for-the-badge&labelColor=0d1117&color=00C6FF)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&labelColor=0d1117&color=00C6FF)
+![TPRM](https://img.shields.io/badge/TPRM_%2F_Supplier_Assurance-000000?style=for-the-badge&labelColor=0d1117&color=00C6FF)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shahidsha1612&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C6FF&icon_color=00C6FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidsha1612&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&sideNums=00C6FF&currStreakLabel=00C6FF" width="49%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidsha1612&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C6FF" width="49%"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shahidsha1612&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" width="80%"/>
 </div>
 
 ---
 
-## 👋 About Me
+### 📜 Certifications & Education
 
-Information Security and Governance, Risk and Compliance (GRC) Consultant specialising in **ISO/IEC 27001:2022 ISMS implementation, risk management and internal audit**. I deliver end-to-end ISO/IEC 27001 and ISO/IEC 42001 (AI Management System) programmes for SMEs, research organisations and defence supply chain clients — covering scoping, risk assessment and treatment, Statement of Applicability (SoA) and Annex A controls, control implementation, internal audit, and CAPA.
+- 🎓 **PECB – ISO/IEC 27001 Lead Auditor** (2023)
+- 🎓 **Diploma in Information Security**, University of Surrey (2023–2024)
+- 🎓 **Certified GRC Engineer – Auditor Specialty (CGE-AUD)** (2026)
+- 🎓 **ISO/IEC 42001 AI Management Systems Masterclass** (2026)
+- 🎓 **ISO 9001:2015 Quality Management Systems** (2026)
+- 🎓 **BTech Information Technology**, BSA Crescent Institute of Science & Technology (2015–2019)
 
-PECB certified **ISO/IEC 27001 Lead Auditor** with a Diploma in Information Security. Backed by nearly five years of commercial software engineering (MERN stack), which lets me translate governance requirements into controls that engineering teams will actually adopt — comfortable communicating risk to executive audiences while staying credible with developers.
+---
 
-## 🏆 Highlights
+### 💼 Featured Projects
 
-- 🔐 Delivering ISO/IEC 27001:2022 ISMS programmes across **7 concurrent client engagements** — defence supply chain, SaaS, research, nonprofit and professional services
-- 📊 Mapped **85 SoA controls across 76 live risk entries** on a single engagement, with a validation gate so only approved controls could be linked to risk rows
-- 🛡️ Led a **NIST SP 800-171 gap analysis** (110 controls) for a defence supply chain manufacturer, supporting their CMMC readiness roadmap
-- 🧭 Planned and led a full ISO/IEC 27001:2022 internal audit programme across **8 departments** for a software client
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🎯 Focus Areas
+**🔗 ISMS Risk & Control Assurance**
+*Seven Client Portfolio*
 
-`ISO/IEC 27001 ISMS` `Risk Assessment & Treatment` `Internal Audit & CAPA` `Statement of Applicability (SoA)` `Third Party Risk Management (TPRM)` `UK GDPR & DPA 2018` `Cyber Essentials / CE+` `NIST SP 800-171 & CMMC` `ISO/IEC 42001 AI Governance` `ISO 9001:2015`
+Owns risk assessment, control mapping and internal audit workstreams across 7 concurrent clients — defence supply chain, SaaS, research, nonprofit, professional services. Built a traceable evidence chain from SoA controls through to internal audit findings.
 
-## 🛠️ Technical Skills
+</td>
+<td width="50%" valign="top">
 
-**GRC & Security**
-![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001-4B8BBE?style=flat-square)
-![NIST 800-171](https://img.shields.io/badge/NIST_800--171-4B8BBE?style=flat-square)
-![GDPR](https://img.shields.io/badge/UK_GDPR-4B8BBE?style=flat-square)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-4B8BBE?style=flat-square)
+**🔗 NIST SP 800-171 Gap Analysis**
+*Defence Supply Chain Manufacturer*
 
-**MERN Stack & Development** (5 years commercial software engineering)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-## 📜 Certifications & Education
-
-- **PECB – ISO/IEC 27001 Lead Auditor** (2023)
-- **Diploma in Information Security**, University of Surrey (2023–2024)
-- **Certified GRC Engineer – Auditor Specialty (CGE-AUD)** (2026)
-- **ISO/IEC 42001 AI Management Systems Masterclass** (2026)
-- **ISO 9001:2015 Quality Management Systems** (2026)
-- **BTech Information Technology**, BSA Crescent Institute of Science & Technology (2015–2019)
-
-## 💼 Featured Projects
-
-**ISMS Risk & Control Assurance — Seven Client Portfolio**
-Own risk assessment, control mapping and internal audit workstreams across seven concurrent clients (defence supply chain, SaaS, research, nonprofit, professional services), building traceable evidence chains from SoA controls through to internal audit findings.
-
-**NIST SP 800-171 Gap Analysis — Defence Supply Chain Manufacturer**
 Reviewed 110 controls against an existing SSP, producing a prioritised remediation roadmap supporting CMMC readiness.
 
-**Simple Supplier Management (SSM)**
-Application centralising supplier records, certifications, renewal dates and risk ratings — implementing ISO/IEC 27001 supplier controls A.5.19–A.5.22 in production. In use by a top-10 UK financial sector company.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔗 Simple Supplier Management (SSM)**
+
+Centralises supplier records, certifications, renewal dates and risk ratings. Implements ISO/IEC 27001 controls A.5.19–A.5.22 in production. Live at a top-10 UK financial sector company.
+
+</td>
+<td width="50%" valign="top">
+
+**🔗 Multi-Department Internal Audit Programme**
+*Software Client*
+
+Planned and led a full ISO/IEC 27001:2022 internal audit programme across 8 departments end-to-end.
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-📩 Open to consulting, audit engagements and collaboration — reach out via [LinkedIn](https://linkedin.com/in/shaid-hussain-651b06134/)
+### 📩 Let's Connect
+
+Open to consulting, audit engagements and collaboration.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00C6FF)](https://linkedin.com/in/shaid-hussain-651b06134/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00C6FF)](mailto:shahidsha.1612@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
