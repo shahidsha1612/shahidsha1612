@@ -66,12 +66,12 @@ I bridge the gap between the boardroom and the codebase, testing whether control
 
 ### 📜 Certifications & Education
 
-- 🎓 **Certified GRC Engineer, Auditor Specialty (CGE-AUD)** (Aug 2026)
-- 🎓 **ISO/IEC 42001 AI Management Systems Masterclass** (Aug 2026)
-- 🎓 **ISO 9001:2015 Quality Management Systems** (Jul 2026)
-- 🎓 **Diploma in Information Security**, University of Surrey (Sep 2023 - Sep 2024)
-- 🎓 **PECB - ISO/IEC 27001 Lead Auditor** (Sep 2023)
-- 🎓 **BTech Information Technology**, BSA Crescent Institute of Science & Technology (2015-2019)
+- 🎓 **Certified GRC Engineer, Auditor Specialty (CGE-AUD)** 
+- 🎓 **ISO/IEC 42001 AI Management Systems Masterclass** 
+- 🎓 **ISO 9001:2015 Quality Management Systems** 
+- 🎓 **Diploma in Information Security**, University of Surrey 
+- 🎓 **PECB - ISO/IEC 27001 Lead Auditor** 
+- 🎓 **BTech Information Technology**, BSA Crescent Institute of Science & Technology 
 
 ---
 
