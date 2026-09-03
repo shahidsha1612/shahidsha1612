@@ -79,6 +79,20 @@ I bridge the gap between the boardroom and the codebase, testing whether control
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+**🛡️ [RepoSentry](https://reposentry.co.uk/) — AI-Powered Supply Chain Security Scanner**
+*Live Product*
+
+Built to answer the question every GRC and AppSec team asks before pulling in a dependency: *is this repository actually safe to use?* RepoSentry runs a multi-layer risk assessment on any GitHub repo before it gets cloned into a codebase - live CVE scanning against OSV.dev, hardcoded secrets detection, AI-driven review for obfuscated code and prompt-injection payloads, agent-targeting content detection (hidden Unicode, malicious MCP configs), and author/repository due-diligence scoring (age, maintenance activity, stars).
+
+The differentiator is evidential rigor, not just detection: every AI-reported finding must cite a real file and a verbatim snippet, which is then programmatically re-verified against the source before it's surfaced - eliminating false-positive "assurance" that plagues most scanners. Findings map directly to **ISO/IEC 27001**, **NIST SP 800-53** and **SOC 2** controls, converting ad-hoc third-party risk checks into audit-ready evidence - closing the loop between supply chain security and compliance in a way that satisfies both the engineer and the auditor.
+
+[![RepoSentry](https://img.shields.io/badge/Visit-reposentry.co.uk-000000?style=for-the-badge&labelColor=000000&color=D1561C)](https://reposentry.co.uk/)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🔗 ISMS Risk & Control Assurance**
