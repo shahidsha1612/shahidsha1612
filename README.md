@@ -93,6 +93,22 @@ The differentiator is evidential rigor, not just detection: every AI-reported fi
 </td>
 </tr>
 <tr>
+<td colspan="2" valign="top">
+
+**⚖️ [CGE-P Capstone](https://github.com/shahidsha1612/cge-p-capstone) — Cryptographically Verifiable Compliance Evidence Pipeline**
+*Certified GRC Engineer, Practitioner Capstone*
+
+Most GRC evidence is a screenshot someone took and hopes nobody questions. This capstone builds a compliance gate that produces evidence an auditor can independently verify by cryptography rather than by trust. A GitHub Actions pipeline authenticates to AWS via OIDC (short-lived, keyless credentials - no stored secrets), plans the Terraform infrastructure, and runs it through a Conftest/OPA policy library enforcing **NIST SP 800-53** controls (SC-28 encryption, AC-3 access control, CM-6 configuration settings) plus a `tfsec` scan on every pull request - blocking merges on real violations and proving it with two live PRs, one deliberately failed and one fixed.
+
+Every resulting evidence bundle is then signed with **Cosign/Sigstore** (Fulcio-issued certificate + public Rekor transparency-log entry) and locked in an S3 vault under Object Lock governance retention, satisfying all four chain-of-custody properties - **authenticity, integrity, timeliness and preservation** - end to end. The write-up even documents a live tamper test against the vault and corrects the lab's own assumptions about S3 immutability after testing it for real. The result: an auditor doesn't get told the control worked - they get a run ID, and the pipeline's own cryptographic output is the proof.
+
+`Terraform` · `AWS (S3, IAM OIDC)` · `GitHub Actions` · `Conftest / OPA` · `tfsec` · `Cosign / Sigstore` · `NIST SP 800-53`
+
+[![Capstone Repo](https://img.shields.io/badge/View-cge--p--capstone-000000?style=for-the-badge&labelColor=000000&color=D1561C&logo=github&logoColor=D1561C)](https://github.com/shahidsha1612/cge-p-capstone)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🔗 ISMS Risk & Control Assurance**
