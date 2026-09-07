@@ -95,16 +95,16 @@ The differentiator is evidential rigor, not just detection: every AI-reported fi
 <tr>
 <td colspan="2" valign="top">
 
-**⚖️ [CGE-P Capstone](https://github.com/shahidsha1612/cge-p-capstone) — Cryptographically Verifiable Compliance Evidence Pipeline**
+**⚖️ [CGE-P Capstone](https://github.com/shahidsha1612/cgep-capstone) — SOC 2 Compliance-as-Code: Prevent, Detect, Prove**
 *Certified GRC Engineer, Practitioner Capstone*
 
-Most GRC evidence is a screenshot someone took and hopes nobody questions. This capstone builds a compliance gate that produces evidence an auditor can independently verify by cryptography rather than by trust. A GitHub Actions pipeline authenticates to AWS via OIDC (short-lived, keyless credentials - no stored secrets), plans the Terraform infrastructure, and runs it through a Conftest/OPA policy library enforcing **NIST SP 800-53** controls (SC-28 encryption, AC-3 access control, CM-6 configuration settings) plus a `tfsec` scan on every pull request - blocking merges on real violations and proving it with two live PRs, one deliberately failed and one fixed.
+Most GRC evidence is a screenshot someone took and hopes nobody questions. This capstone governs a PHI telehealth intake workload against **SOC 2 Trust Services Criteria** and produces evidence an auditor can verify by cryptography rather than by trust. A GitHub Actions pipeline plans the Terraform infrastructure and runs it through a Conftest/OPA policy library of gap-detection rules mapped to SOC 2 controls (**CC6.1** access, **CC6.3** least privilege, **CC6.7** transmission, **A1.2** availability) - blocking merges on real violations and proving it with paired pull requests, one deliberately failed and one fixed. Every applied change is signed keylessly with **Cosign/Sigstore** (GitHub OIDC → Fulcio certificate + public Rekor transparency-log entry) and locked in an S3 Object Lock vault, so a single verify script re-checks the whole chain and prints **CHAIN INTACT** - the write-up even documents a live tamper test against the vault.
 
-Every resulting evidence bundle is then signed with **Cosign/Sigstore** (Fulcio-issued certificate + public Rekor transparency-log entry) and locked in an S3 vault under Object Lock governance retention, satisfying all four chain-of-custody properties - **authenticity, integrity, timeliness and preservation** - end to end. The write-up even documents a live tamper test against the vault and corrects the lab's own assumptions about S3 immutability after testing it for real. The result: an auditor doesn't get told the control worked - they get a run ID, and the pipeline's own cryptographic output is the proof.
+The latest addition closes the other half of the control: an **automated access review**. A scheduled, read-only Lambda continuously audits the live account, orchestrating findings from **IAM**, **IAM Access Analyzer** and **Security Hub** into one report, with an **Amazon Bedrock** model writing the executive summary and each run landing as timestamped CSV in a versioned, encrypted bucket. Where the pipeline *prevents* non-compliant change at deploy time, the access review *detects* drift and access risk after it - engineering SOC 2 **CC6.3** periodic access reviews as automation instead of a documented manual process. Prevent, detect, prove - end to end.
 
-`Terraform` · `AWS (S3, IAM OIDC)` · `GitHub Actions` · `Conftest / OPA` · `tfsec` · `Cosign / Sigstore` · `NIST SP 800-53`
+`Terraform` · `AWS (Lambda, S3, EventBridge, Security Hub, IAM Access Analyzer, Bedrock)` · `GitHub Actions` · `Conftest / OPA` · `Cosign / Sigstore` · `OSCAL` · `SOC 2 TSC`
 
-[![Capstone Repo](https://img.shields.io/badge/View-cge--p--capstone-000000?style=for-the-badge&labelColor=000000&color=D1561C&logo=github&logoColor=D1561C)](https://github.com/shahidsha1612/cge-p-capstone)
+[![Capstone Repo](https://img.shields.io/badge/View-cgep--capstone-000000?style=for-the-badge&labelColor=000000&color=D1561C&logo=github&logoColor=D1561C)](https://github.com/shahidsha1612/cgep-capstone)
 
 </td>
 </tr>
