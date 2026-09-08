@@ -66,6 +66,7 @@ I bridge the gap between the boardroom and the codebase, testing whether control
 
 ### 📜 Certifications & Education
 
+- 🎓 **Certified GRC Engineer, Practitioner (CGE-P)** 
 - 🎓 **Certified GRC Engineer, Auditor Specialty (CGE-AUD)** 
 - 🎓 **ISO/IEC 42001 AI Management Systems Masterclass** 
 - 🎓 **ISO 9001:2015 Quality Management Systems** 
