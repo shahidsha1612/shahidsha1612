@@ -23,12 +23,14 @@
 ### `> whoami`
 
 ```yaml
-role:        GRC & Information Security Engineer
+role:        GRC & Information Security Engineer @ ADL Consulting
 specialty:   ISO/IEC 27001:2022 ISMS | Risk & Internal Audit | ISO/IEC 42001 AI Governance
-certified:   PECB ISO/IEC 27001 Lead Auditor
+certified:   PECB ISO/IEC 27001 Lead Auditor | AWS Certified AI Practitioner | CGE-P | CGE-AUD
+audits:      30+ internal audits led, ~60 external audits supported
 background:  ~5 years commercial software engineering (MERN stack)
 superpower:  Writing the evidence, not just the policy
 currently:   Running ISMS programmes across 7 concurrent clients (defence, SaaS, research, nonprofit)
+building:    Project Veridian, automated ISO 27001 Annex A evidence (in public, on LinkedIn)
 ```
 
 I bridge the gap between the boardroom and the codebase, testing whether controls are technically viable before they hit a Statement of Applicability, then translating the risk into plain English for directors and holding that ground under challenge.
@@ -40,6 +42,7 @@ I bridge the gap between the boardroom and the codebase, testing whether control
 ![ISO27001](https://img.shields.io/badge/ISO%2FIEC_27001:2022-000000?style=for-the-badge&labelColor=000000&color=D1561C)
 ![ISO9001](https://img.shields.io/badge/ISO_9001:2015-000000?style=for-the-badge&labelColor=000000&color=D1561C)
 ![ISO42001](https://img.shields.io/badge/ISO%2FIEC_42001_AI-000000?style=for-the-badge&labelColor=000000&color=D1561C)
+![SOC2](https://img.shields.io/badge/SOC_2_TSC-000000?style=for-the-badge&labelColor=000000&color=D1561C)
 ![NIST80171](https://img.shields.io/badge/NIST_SP_800--171-000000?style=for-the-badge&labelColor=000000&color=D1561C)
 ![CMMC](https://img.shields.io/badge/CMMC_Readiness-000000?style=for-the-badge&labelColor=000000&color=D1561C)
 ![GDPR](https://img.shields.io/badge/UK_GDPR_%2F_DPA_2018-000000?style=for-the-badge&labelColor=000000&color=D1561C)
@@ -49,6 +52,8 @@ I bridge the gap between the boardroom and the codebase, testing whether control
 ![SoA](https://img.shields.io/badge/SoA_%2F_Annex_A_Controls-000000?style=for-the-badge&labelColor=000000&color=D1561C)
 ![CAPA](https://img.shields.io/badge/Internal_Audit_%2F_CAPA-000000?style=for-the-badge&labelColor=000000&color=D1561C)
 ![BCDR](https://img.shields.io/badge/BC%2FDR_Planning-000000?style=for-the-badge&labelColor=000000&color=D1561C)
+![Awareness](https://img.shields.io/badge/Security_Awareness_%2F_Phishing_Sims-000000?style=for-the-badge&labelColor=000000&color=D1561C)
+![AWS](https://img.shields.io/badge/AWS_%2F_Bedrock-000000?style=for-the-badge&labelColor=000000&color=D1561C)
 
 ---
 
@@ -56,30 +61,44 @@ I bridge the gap between the boardroom and the codebase, testing whether control
 
 | | |
 |---|---|
+| 🏅 | Built the ISMS for a **UK defence supply chain manufacturer** and took them through to **ISO/IEC 27001 certification** |
 | 🔐 | ISO/IEC 27001:2022 ISMS delivery across **7 concurrent client engagements** |
+| 🧭 | Led **30+ internal audits** and supported **~60 external audits**, including one programme spanning 8 departments end to end |
 | 📊 | Mapped **85 SoA controls to 76 live risk entries** with a programmatic validation gate for certification-ready traceability |
 | 🛡️ | **NIST SP 800-171** gap analysis (110 controls) for a defence supply chain manufacturer, supporting CMMC readiness |
-| 🧭 | Led **multiple ISO/IEC 27001:2022 internal audit programmes**, including one spanning 8 departments end to end |
+| 📣 | Ran a **security awareness campaign across 7 UK locations**, with phishing simulations, training videos and a monthly security newsletter |
 | ⚙️ | Shipped an SSM app now used by a **top-10 UK financial sector company** |
 
 ---
 
 ### 📜 Certifications & Education
 
-- 🎓 **Certified GRC Engineer, Practitioner (CGE-P)** 
-- 🎓 **Certified GRC Engineer, Auditor Specialty (CGE-AUD)** 
-- 🎓 **ISO/IEC 42001 AI Management Systems Masterclass** 
-- 🎓 **ISO 9001:2015 Quality Management Systems** 
-- 🎓 **Diploma in Information Security**, University of Surrey 
-- 🎓 **PECB - ISO/IEC 27001 Lead Auditor**
-- 🎓 **AWS AI practioner** 
-- 🎓 **BTech Information Technology**, BSA Crescent Institute of Science & Technology 
+- 🎓 **PECB ISO/IEC 27001 Lead Auditor**
+- 🎓 **AWS Certified AI Practitioner (AIF-C01)**
+- 🎓 **Certified GRC Engineer, Practitioner (CGE-P)**
+- 🎓 **Certified GRC Engineer, Auditor Specialty (CGE-AUD)**
+- 🎓 **ISO/IEC 42001 AI Management Systems Masterclass**
+- 🎓 **ISO 9001:2015 Quality Management Systems**
+- 🎓 **Diploma in Information Security**, University of Surrey
+- 🎓 **BTech Information Technology**, BSA Crescent Institute of Science & Technology
 
 ---
 
 ### 💼 Featured Projects
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+**🧪 [Project Veridian](https://github.com/shahidsha1612/veridian-iso27001) — Compliance as Infrastructure for ISO/IEC 27001**
+*Building in Public · LinkedIn Series*
+
+What would an ISMS look like if the evidence generated itself? Project Veridian answers that against a fictional identity company, **Veridian Identity**, automating the collection of **ISO/IEC 27001:2022 Annex A** control evidence so that every control claim in the SoA is backed by machine-produced, repeatable proof rather than a screenshot and a promise. Each build step is published as an episode in a LinkedIn series, and the finished evidence set is going in front of a **qualified external auditor**, with the audit report shared publicly.
+
+[![Veridian Repo](https://img.shields.io/badge/View-veridian--iso27001-000000?style=for-the-badge&labelColor=000000&color=D1561C&logo=github&logoColor=D1561C)](https://github.com/shahidsha1612/veridian-iso27001)
+
+</td>
+</tr>
 <tr>
 <td colspan="2" valign="top">
 
@@ -113,10 +132,10 @@ The latest addition closes the other half of the control: an **automated access 
 <tr>
 <td width="50%" valign="top">
 
-**🔗 ISMS Risk & Control Assurance**
-*Seven Client Portfolio*
+**🔗 ISO/IEC 27001 Certification Delivery**
+*UK Defence Supply Chain Manufacturer*
 
-Owns risk assessment, control mapping and internal audit workstreams across 7 concurrent clients spanning defence supply chain, SaaS, research, nonprofit and professional services. Built a traceable evidence chain from SoA controls through to internal audit findings.
+Designed and built the ISMS from the ground up, ran the internal audits alongside the client team, and carried the organisation through to ISO/IEC 27001 certification.
 
 </td>
 <td width="50%" valign="top">
@@ -131,9 +150,10 @@ Reviewed 110 controls against an existing SSP, producing a prioritised remediati
 <tr>
 <td width="50%" valign="top">
 
-**🔗 Simple Supplier Management (SSM)**
+**🔗 ISMS Risk & Control Assurance**
+*Seven Client Portfolio*
 
-Centralises supplier records, certifications, renewal dates and risk ratings. Implements ISO/IEC 27001 controls A.5.19-A.5.22 in production. Live at a top-10 UK financial sector company.
+Owns risk assessment, control mapping and internal audit workstreams across 7 concurrent clients spanning defence supply chain, SaaS, research, nonprofit and professional services. Built a traceable evidence chain from SoA controls through to internal audit findings.
 
 </td>
 <td width="50%" valign="top">
@@ -141,7 +161,25 @@ Centralises supplier records, certifications, renewal dates and risk ratings. Im
 **🔗 Multi-Department Internal Audit Programmes**
 *Software & Defence Clients*
 
-Planned and led full ISO/IEC 27001:2022 internal audit programmes across multiple departments end to end, including audit plans, control matrices and CAPA tracking.
+Planned and led full ISO/IEC 27001:2022 internal audit programmes across multiple departments end to end, including audit plans, control matrices and CAPA tracking. 30+ internal audits led to date.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔗 Security Awareness Programme**
+*Multi-Site UK Client*
+
+Delivered a security awareness campaign across seven UK locations: coordinated phishing simulations, produced training videos and internal comms, and author a monthly information security newsletter distributed across every client account.
+
+</td>
+<td width="50%" valign="top">
+
+**🔗 Simple Supplier Management (SSM)**
+*Live SaaS Product*
+
+Centralises supplier records, certifications, renewal dates and risk ratings. Implements ISO/IEC 27001 controls A.5.19-A.5.22 in production. Live at a top-10 UK financial sector company.
 
 </td>
 </tr>
@@ -153,7 +191,7 @@ Planned and led full ISO/IEC 27001:2022 internal audit programmes across multipl
 
 5 years of commercial MERN stack engineering underpins the technical side of the GRC work above.
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,nextjs,mongodb,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,nextjs,mongodb,aws,terraform,git,github&theme=dark" />
 
 ---
 
