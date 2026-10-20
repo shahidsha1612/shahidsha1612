@@ -71,7 +71,8 @@ I bridge the gap between the boardroom and the codebase, testing whether control
 - 🎓 **ISO/IEC 42001 AI Management Systems Masterclass** 
 - 🎓 **ISO 9001:2015 Quality Management Systems** 
 - 🎓 **Diploma in Information Security**, University of Surrey 
-- 🎓 **PECB - ISO/IEC 27001 Lead Auditor** 
+- 🎓 **PECB - ISO/IEC 27001 Lead Auditor**
+- 🎓 **AWS AI practioner** 
 - 🎓 **BTech Information Technology**, BSA Crescent Institute of Science & Technology 
 
 ---
