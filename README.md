@@ -214,6 +214,171 @@ Centralises supplier records, certifications, renewal dates and risk ratings. Im
 
 ---
 
+### 🧭 Experience Timeline
+
+<div align="center">
+
+`💻 Frontend Engineer` &nbsp;━━━▶&nbsp; `🧩 Product Developer` &nbsp;━━━▶&nbsp; `🛠️ Full Stack & Freelance` &nbsp;━━━▶&nbsp; `🔐 GRC & Security Engineer`
+
+</div>
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Fira Code, monospace','primaryColor':'#D1561C','primaryTextColor':'#ffffff','primaryBorderColor':'#F26422','lineColor':'#F26422','sectionBkgColor':'#1a1a1a','altSectionBkgColor':'#000000','sectionBkgColor2':'#1a1a1a','taskBkgColor':'#D1561C','taskBorderColor':'#F26422','taskTextColor':'#ffffff','taskTextLightColor':'#ffffff','taskTextDarkColor':'#ffffff','taskTextOutsideColor':'#F26422','taskTextClickableColor':'#F26422','activeTaskBkgColor':'#F26422','activeTaskBorderColor':'#ffffff','doneTaskBkgColor':'#8a3a12','doneTaskBorderColor':'#D1561C','gridColor':'#444444','titleColor':'#F26422'}}}%%
+gantt
+    title Career at a glance (overlaps = concurrent engagements)
+    dateFormat YYYY-MM
+    axisFormat %Y
+    section Engineering
+    Frontend Developer, Flyers Soft     :done, 2021-01, 2022-01
+    Product Developer, Lumel            :done, 2022-01, 2023-09
+    Freelance Web Developer             :done, 2023-09, 2025-07
+    Full Stack Developer, Lumel         :done, 2025-04, 2025-09
+    Full Stack Developer, Re Healthify  :done, 2025-07, 2025-08
+    section GRC & Security
+    GRC Consultant, ADL Consulting      :active, 2025-09, 2026-12
+```
+
+<table>
+<tr>
+<td colspan="2" align="center">
+
+**🔐 GRC & Security Engineering** &nbsp;·&nbsp; <sub>2025 → today</sub>
+
+</td>
+</tr>
+<tr>
+<td width="28%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Sep_2025_%E2%80%93_Present-000000?style=for-the-badge&labelColor=000000&color=D1561C"/>
+<br/>
+<img src="https://img.shields.io/badge/●_Now-000000?style=for-the-badge&labelColor=000000&color=2EA043"/>
+<br/>
+<sub>📍 UK</sub>
+
+</td>
+<td valign="top">
+
+🟠 **Information Security & GRC Consultant**  
+*ADL Consulting Ltd*
+
+- Delivering end to end **ISO/IEC 27001:2022** ISMS implementation, certification readiness and maintenance across **7 concurrent clients** (defence supply chain, SaaS, research, non-profit, professional services)
+- Planning and leading **multi-department internal audit programmes**, reporting nonconformities and **CAPA** to senior management and tracking them through to closure
+- Leading **third party risk management**: vendor certifications, DPAs, data residency and UK GDPR processor obligations, kept in structured supplier risk registers
+- Gap analysis and remediation roadmaps against **ISO 9001**, **ISO/IEC 42001**, **NIST SP 800-171** and **Cyber Essentials / CE+**
+- Testing whether controls are technically viable **before** they reach the SoA, then explaining the risk in plain language to client directors
+
+`ISO 27001` · `ISO 42001` · `NIST 800-171` · `Internal Audit` · `CAPA` · `TPRM` · `BC/DR`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**💻 Software Engineering** &nbsp;·&nbsp; <sub>2021 → 2025 · the foundation for security by design</sub>
+
+</td>
+</tr>
+<tr>
+<td width="28%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Jul_2025_%E2%80%93_Aug_2025-000000?style=for-the-badge&labelColor=000000&color=D1561C"/>
+<br/>
+<sub>📍 UK</sub>
+
+</td>
+<td valign="top">
+
+🔸 **Full Stack Developer**  
+*Re:Healthify · concurrent engagement*
+
+- Took an **AI health platform** to production with data protection and privacy controls **designed in from day one**
+- Built electronic health record (EHR) data flows around **data minimisation** and **access control**, not added afterwards
+
+`Privacy by Design` · `Healthcare Data` · `AI`
+
+</td>
+</tr>
+<tr>
+<td width="28%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Apr_2025_%E2%80%93_Sep_2025-000000?style=for-the-badge&labelColor=000000&color=D1561C"/>
+<br/>
+<sub>📍 Remote</sub>
+
+</td>
+<td valign="top">
+
+🔸 **Full Stack Developer**  
+*Lumel · concurrent*
+
+- Applied secure development practice (**input validation**, **authentication flow design**, **dependency management**) across an enterprise analytics product lifecycle
+
+`Secure SDLC` · `React` · `Node.js`
+
+</td>
+</tr>
+<tr>
+<td width="28%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Sep_2023_%E2%80%93_Jul_2025-000000?style=for-the-badge&labelColor=000000&color=D1561C"/>
+<br/>
+<sub>📍 UK</sub>
+
+</td>
+<td valign="top">
+
+🔸 **Web Developer**  
+*Freelance · concurrent side engagements*
+
+- Full stack delivery for **international clients**, owning scoping, timelines and handover documentation end to end
+
+`React` · `Node.js` · `Client Delivery`
+
+</td>
+</tr>
+<tr>
+<td width="28%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Jan_2022_%E2%80%93_Sep_2023-000000?style=for-the-badge&labelColor=000000&color=D1561C"/>
+<br/>
+<sub>🌍 Lumel</sub>
+
+</td>
+<td valign="top">
+
+🔸 **Product Developer**  
+*Lumel*
+
+- Built complex **React + TypeScript** product features and reusable component libraries
+- 📈 **+45%** measured user satisfaction &nbsp;·&nbsp; ⚡ **−25%** development time on new projects &nbsp;·&nbsp; 🎯 **95%** on-time delivery across 3 concurrent Agile projects
+
+`React` · `TypeScript` · `Component Libraries` · `Agile`
+
+</td>
+</tr>
+<tr>
+<td width="28%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Jan_2021_%E2%80%93_Jan_2022-000000?style=for-the-badge&labelColor=000000&color=D1561C"/>
+<br/>
+<sub>🌱 First role</sub>
+
+</td>
+<td valign="top">
+
+🔹 **Frontend Developer**  
+*Flyers Soft · where it all started*
+
+- First commercial engineering role: React frontend features and direct client delivery from requirements through to production release
+
+`React` · `JavaScript`
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
 ### 📩 Let's Connect
