@@ -218,23 +218,23 @@ Centralises supplier records, certifications, renewal dates and risk ratings. Im
 
 <div align="center">
 
-`💻 Frontend Engineer` &nbsp;━━━▶&nbsp; `🧩 Product Developer` &nbsp;━━━▶&nbsp; `🛠️ Full Stack & Freelance` &nbsp;━━━▶&nbsp; `🔐 GRC & Security Engineer`
+`2021` 💻 **Frontend** &nbsp;→&nbsp; `2022` 🧩 **Product** &nbsp;→&nbsp; `2023` 🛠️ **Full Stack** &nbsp;→&nbsp; `2025` 🔐 **GRC & Security**
 
 </div>
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'Fira Code, monospace','primaryColor':'#D1561C','primaryTextColor':'#ffffff','primaryBorderColor':'#F26422','lineColor':'#F26422','sectionBkgColor':'#1a1a1a','altSectionBkgColor':'#000000','sectionBkgColor2':'#1a1a1a','taskBkgColor':'#D1561C','taskBorderColor':'#F26422','taskTextColor':'#ffffff','taskTextLightColor':'#ffffff','taskTextDarkColor':'#ffffff','taskTextOutsideColor':'#F26422','taskTextClickableColor':'#F26422','activeTaskBkgColor':'#F26422','activeTaskBorderColor':'#ffffff','doneTaskBkgColor':'#8a3a12','doneTaskBorderColor':'#D1561C','gridColor':'#444444','titleColor':'#F26422'}}}%%
+%%{init: {'theme':'base','gantt':{'barHeight':30,'barGap':8,'fontSize':15,'sectionFontSize':15,'topPadding':60,'leftPadding':150,'gridLineStartPadding':40},'themeVariables':{'fontFamily':'Fira Code, monospace','primaryColor':'#D1561C','primaryTextColor':'#ffffff','primaryBorderColor':'#F26422','lineColor':'#F26422','sectionBkgColor':'#1a1a1a','altSectionBkgColor':'#262626','sectionBkgColor2':'#1a1a1a','taskBkgColor':'#D1561C','taskBorderColor':'#F26422','taskTextColor':'#ffffff','taskTextLightColor':'#ffffff','taskTextDarkColor':'#ffffff','taskTextOutsideColor':'#F26422','taskTextClickableColor':'#F26422','activeTaskBkgColor':'#F26422','activeTaskBorderColor':'#ffffff','doneTaskBkgColor':'#D1561C','doneTaskBorderColor':'#D1561C','gridColor':'#555555','titleColor':'#F26422'}}}%%
 gantt
     title Career at a glance (overlaps = concurrent engagements)
     dateFormat YYYY-MM
     axisFormat %Y
-    section Engineering
+    section Eng
     Frontend Developer, Flyers Soft     :done, 2021-01, 2022-01
     Product Developer, Lumel            :done, 2022-01, 2023-09
     Freelance Web Developer             :done, 2023-09, 2025-07
-    Full Stack Developer, Lumel         :done, 2025-04, 2025-09
-    Full Stack Developer, Re Healthify  :done, 2025-07, 2025-08
-    section GRC & Security
+    Full Stack, Lumel                   :done, 2025-04, 2025-09
+    Full Stack, Re Healthify            :done, 2025-07, 2025-08
+    section GRC
     GRC Consultant, ADL Consulting      :active, 2025-09, 2026-12
 ```
 
@@ -341,7 +341,7 @@ gantt
 
 <img src="https://img.shields.io/badge/Jan_2022_%E2%80%93_Sep_2023-000000?style=for-the-badge&labelColor=000000&color=D1561C"/>
 <br/>
-<sub>🌍 Lumel</sub>
+<sub>💼 Full-time</sub>
 
 </td>
 <td valign="top">
