@@ -31,6 +31,8 @@ background:  ~5 years commercial software engineering (MERN stack)
 superpower:  Writing the evidence, not just the policy
 currently:   Running ISMS programmes across 7 concurrent clients (defence, SaaS, research, nonprofit)
 building:    Project Veridian, automated ISO 27001 Annex A evidence (in public, on LinkedIn)
+community:   Director of Events, London Chapter, GRC Engineering Club
+teaching:    Automated Access Reviews on AWS, an educational series (LinkedIn)
 ```
 
 I bridge the gap between the boardroom and the codebase, testing whether controls are technically viable before they hit a Statement of Applicability, then translating the risk into plain English for directors and holding that ground under challenge.
@@ -68,6 +70,7 @@ I bridge the gap between the boardroom and the codebase, testing whether control
 | 🛡️ | **NIST SP 800-171** gap analysis (110 controls) for a defence supply chain manufacturer, supporting CMMC readiness |
 | 📣 | Ran a **security awareness campaign across 7 UK locations**, with phishing simulations, training videos and a monthly security newsletter |
 | ⚙️ | Shipped an SSM app now used by a **top-10 UK financial sector company** |
+| 🤝 | Director of Events for the **London chapter of the GRC Engineering Club**, running the chapter's events and mentoring people moving into GRC through 1-1 sessions |
 
 ---
 
@@ -96,6 +99,22 @@ I bridge the gap between the boardroom and the codebase, testing whether control
 What would an ISMS look like if the evidence generated itself? Project Veridian answers that against a fictional identity company, **Veridian Identity**, automating the collection of **ISO/IEC 27001:2022 Annex A** control evidence so that every control claim in the SoA is backed by machine-produced, repeatable proof rather than a screenshot and a promise. Each build step is published as an episode in a LinkedIn series, and the finished evidence set is going in front of a **qualified external auditor**, with the audit report shared publicly.
 
 [![Veridian Repo](https://img.shields.io/badge/View-veridian--iso27001-000000?style=for-the-badge&labelColor=000000&color=D1561C&logo=github&logoColor=D1561C)](https://github.com/shahidsha1612/veridian-iso27001)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**🎓 [Automated Access Reviews on AWS](https://github.com/shahidsha1612/demo-access-reviews-1) — An Educational Series**
+*Educational Series · LinkedIn · Sessions 1 to 4*
+
+Most access reviews fail for one boring reason: nobody does them on time. This series teaches GRC, risk and compliance professionals, no engineering background needed, how to build an automated AWS access review step by step, in a safe practice setup. Each session is a short walkthrough: how the review works from timer to emailed report, setting up a practice GitHub organisation and our own repo, preparing a practice AWS account (an admin user instead of the root login, MFA, a verified email), then a health check and a dry run so the plan is reviewed before anything is built.
+
+The review runs on a schedule and checks **IAM**, **IAM Access Analyzer**, **Security Hub** and **CloudTrail**. An **Amazon Bedrock** model writes the plain-English summary, each run saves a CSV to a private, encrypted S3 bucket, and the report is emailed out. Practice users with planted problems give it something real to catch, and every session closes with clean-up so nothing keeps running. Based on AJ Yawn's open-source AWS Access Review project (MIT licence), credited and not forked.
+
+`AWS (Lambda, S3, EventBridge, IAM, Security Hub, IAM Access Analyzer, CloudTrail, Bedrock, SES)` · `CloudFormation` · `Bash` · `Python`
+
+[![Series Repo](https://img.shields.io/badge/View-demo--access--reviews--1-000000?style=for-the-badge&labelColor=000000&color=D1561C&logo=github&logoColor=D1561C)](https://github.com/shahidsha1612/demo-access-reviews-1) [![Follow the series](https://img.shields.io/badge/Follow%20the%20series-LinkedIn-000000?style=for-the-badge&labelColor=000000&color=D1561C&logo=linkedin&logoColor=D1561C)](https://www.linkedin.com/in/shaid-hussain-651b06134/)
 
 </td>
 </tr>
