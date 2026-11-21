@@ -25,7 +25,7 @@
 ```yaml
 role:        GRC & Information Security Engineer @ ADL Consulting
 specialty:   ISO/IEC 27001:2022 ISMS | Risk & Internal Audit | ISO/IEC 42001 AI Governance
-certified:   PECB ISO/IEC 27001 Lead Auditor | AWS Certified AI Practitioner | CGE-P | CGE-AUD
+certified:   PECB ISO/IEC 27001 Lead Auditor | AWS Certified AI Practitioner | CGE-P | CGE-AUD | CGE-AZ
 audits:      30+ internal audits led, ~60 external audits supported
 background:  ~5 years commercial software engineering (MERN stack)
 superpower:  Writing the evidence, not just the policy
@@ -80,7 +80,7 @@ I bridge the gap between the boardroom and the codebase, testing whether control
 - 🎓 **AWS Certified AI Practitioner (AIF-C01)**
 - 🎓 **Certified GRC Engineer, Practitioner (CGE-P)**
 - 🎓 **Certified GRC Engineer, Auditor Specialty (CGE-AUD)**
-- 🎓 **Certified GRC Engineer, Azure Specialty (CGE-AZ)**, *in progress: labs and capstone pipeline complete, exam pending*
+- 🎓 **Certified GRC Engineer, Azure Specialty (CGE-AZ)**
 - 🎓 **ISO/IEC 42001 AI Management Systems Masterclass**
 - 🎓 **ISO 9001:2015 Quality Management Systems**
 - 🎓 **Diploma in Information Security**, University of Surrey
