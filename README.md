@@ -149,6 +149,22 @@ The latest addition closes the other half of the control: an **automated access 
 </td>
 </tr>
 <tr>
+<td colspan="2" valign="top">
+
+**☁️ [CGE-AZ Capstone](https://github.com/shahidsha1612/cgeaz) — Continuous Compliance Pipeline on Azure: Detect, Record, Report, Fix**
+*Certified GRC Engineer, Azure Specialty Capstone*
+
+Annual audits describe one day. This pipeline describes every day. Built in my own Azure subscription and governed entirely as code, it discovers what is running, collects **Microsoft Defender for Cloud** findings every night into an evidence store I own, writes the **POA&M** and **SAR** from that store alone, and remediates with a human at the approval gate. Evidence lands in **Cosmos DB** stamped with a run ID and timestamp, and reports go into **WORM** storage that refuses deletion even to the subscription owner. Every number in a report traces back to a stored record, and that trace caught a real defect: severity was never being collected, which had quietly given High-risk findings a 90-day deadline instead of 30.
+
+My extensions beyond the course starter: two custom **Azure Policy** controls (management ports open to the internet, plaintext storage), each with a shift-left **OPA** twin in the PR gate; a least-privilege custom role replacing a remediation identity that could quietly list storage keys; a **KQL** tripwire that alerts on out-of-band portal changes; and a **NIST CSF 2.0** crosswalk stored as data across 843 Defender assessments, so the reports show the framework impact of every finding. CI authenticates through keyless **OIDC**, blocks non-compliant Terraform on every pull request (proven with a deliberately failed PR), and checks nightly for drift.
+
+`Terraform (azurerm)` · `Azure Policy` · `Defender for Cloud` · `Cosmos DB` · `Azure Functions (Python)` · `Log Analytics / KQL` · `GitHub Actions` · `Conftest / OPA` · `NIST CSF 2.0`
+
+[![Capstone Repo](https://img.shields.io/badge/View-cgeaz-000000?style=for-the-badge&labelColor=000000&color=D1561C&logo=github&logoColor=D1561C)](https://github.com/shahidsha1612/cgeaz)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🔗 ISO/IEC 27001 Certification Delivery**
