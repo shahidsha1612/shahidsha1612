@@ -80,6 +80,7 @@ I bridge the gap between the boardroom and the codebase, testing whether control
 - 🎓 **AWS Certified AI Practitioner (AIF-C01)**
 - 🎓 **Certified GRC Engineer, Practitioner (CGE-P)**
 - 🎓 **Certified GRC Engineer, Auditor Specialty (CGE-AUD)**
+- 🎓 **Certified GRC Engineer, Azure Specialty (CGE-AZ)**, *in progress: labs and capstone pipeline complete, exam pending*
 - 🎓 **ISO/IEC 42001 AI Management Systems Masterclass**
 - 🎓 **ISO 9001:2015 Quality Management Systems**
 - 🎓 **Diploma in Information Security**, University of Surrey
